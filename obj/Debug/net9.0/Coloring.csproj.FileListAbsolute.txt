@@ -1,0 +1,15 @@
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\bin\Debug\net9.0\Coloring.exe
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\bin\Debug\net9.0\Coloring.deps.json
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\bin\Debug\net9.0\Coloring.runtimeconfig.json
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\bin\Debug\net9.0\Coloring.dll
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\bin\Debug\net9.0\Coloring.pdb
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.AssemblyInfoInputs.cache
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.AssemblyInfo.cs
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.csproj.CoreCompileInputs.cache
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.sourcelink.json
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.dll
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\refint\Coloring.dll
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.pdb
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\Coloring.genruntimeconfig.cache
+C:\Users\Velor\source\repos\BinaryComparer\Coloring\Coloring\obj\Debug\net9.0\ref\Coloring.dll
